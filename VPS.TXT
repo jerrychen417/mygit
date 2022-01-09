@@ -1,0 +1,291 @@
+5064955971
+believe123.
+
+36.28.28.107
+域名:
+  youyouat211.ml
+  youyouat121.ml   www.youyouat121.ml
+  xiaxia417.ml 
+
+---------------github免费节点:-----------------------
+44ef7c0a-9861-4a77-9e56-31359e136aef 
+databig12w.herokuapp.com
+
+6970c1ce-1e15-4eef-9de0-eae5ac835e12
+bigdata20221.herokuapp.com
+gentle-feather-572a.gapmzu8jf.workers.dev
+
+1d4f2d9f-556d-491c-a038-4060d79b1ff8
+bigdata202201.herokuapp.com
+crimson-lake-ed6e.gapmzu8jf.workers.dev
+----------------------------------------------------
+
+ping has.xiaxia417.ml
+ipv6:2a01:4f8:13a:2690:face:0fbb:008f:0001
+
+德鸡:
+2a02:0180:0006:0001:0000:0000:0000:5124
+8UgT8VCU
+
+bash <(curl -s -L https://git.io/v2ray.sh)
+
+
+微软5T云盘账号:
+JerryChen417@buffread.onmicrosoft.com
+Believe123.
+
+中国上海市松江区车墩镇蔷薇苑2栋
+201600
+
+
+Free Proxies
+/clash/proxies
+转格式:
+https://clashtoss.bingle.ga
+
+bash <(curl -L -s https://multi.netlify.app/go.sh) -l ./v2ray-linux-64.zip
+
+#系统更新---------------
+yum update -y && yum install curl -y   yum install -y wget
+nohup yum update -y  >/dev/null 2>&1  &
+
+Debian安装命令：
+apt-get update -y
+apt-get upgrade -y
+apt-get dist-upgrade -y
+
+nohup apt-get update -y && apt-get upgrade -y &&apt-get dist-upgrade -y >/dev/null 2>&1  &
+
+
+
+warp  ipv6-->ipv4-------------------
+wget -N https://cdn.jsdelivr.net/gh/fscarmen/warp/menu.sh && bash menu.sh
+
+一键安装
+wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh" && chmod 700 /root/install.sh && /root/install.sh
+
+使用warp o命令暂时关闭warp，待域名解析完成后使用warp o命令打开warp即可
+
+
+
+-----------------x-ui手动安装-------------------------------
+wget https://github.91chi.fun//https://github.com//vaxilu/x-ui/releases/download/0.3.2/x-ui-linux-amd64.tar.gz
+yum install -y tar
+
+cd /root/
+rm x-ui/ /usr/local/x-ui/ /usr/bin/x-ui -rf
+tar -zxvf x-ui-linux-amd64.tar.gz
+chmod +x x-ui/x-ui x-ui/bin/xray-linux-* x-ui/x-ui.sh
+cp x-ui/x-ui.sh /usr/bin/x-ui
+cp -f x-ui/x-ui.service /etc/systemd/system/
+mv x-ui/ /usr/local/
+systemctl daemon-reload 
+systemctl enable x-ui
+systemctl restart x-ui
+
+手动更新xui内核xray
+cd /usr/local/x-ui/bin
+wget https://github.91chi.fun//https://github.com//XTLS/Xray-core/releases/download/v1.5.2/Xray-linux-64.zip
+mkdir old
+mv ./geoip.dat ./old
+mv ./geosite.dat ./old
+mv ./xray-linux-amd64 ./old
+unzip Xray-linux-64.zip
+mv ./xray ./xray-linux-amd64
+chmod +x geoip.dat
+chmod +x geosite.dat
+
+---------------------------------------
+德鸡安装IPV4
+wget -N https://cdn.jsdelivr.net/gh/kkkyg/CFwarp/CFwarp.sh && bash CFwarp.sh
+
+echo -e "search blue.kundencontroller.de\noptions rotate\nnameserver 2a02:180:6:5::1c\nnameserver 2a02:180:6:5::4\nnameserver 2a02:180:6:5::1e\nnameserver 2a02:180:6:5::1d" > /etc/resolv.conf
+
+
+----------安装宝塔-------------------
+yum install -y wget && wget -O install.sh http://download.bt.cn/install/install_6.0.sh && sh install.sh
+#Debian安装命令：
+wget -O install.sh http://download.bt.cn/install/install-ubuntu_6.0.sh && bash install.sh
+bt default
+
+bash <(curl -Ls https://github.com/jerrychen417/x-ui/blob/main/install.sh)
+
+德鸡宝塔
+外网面板地址: http://[2a02:180:6:1::5124]:8888/mybaotao
+             http://103.253.24.78:8849/815f9ae5
+内网面板地址: http://172.16.0.2:8888/815f9ae5
+username: jerrychen
+password: believe123.
+
+8089/mybaotao
+
+x-ui 
+www.youyouat121.ml/newxui
+端口:12312   /newxui
+  入站: 25236      /SAD3FW4QAT
+  www.youyouat121.ml
+
+数据库名：www_youyouat121
+
+用户：www_youyouat121
+
+密码：EERkXzxQWt
+
+访问站点：http://www.youyouat121.ml/index.php
+---------------------------------------------------------------
+/www/server/panel/vhost/nginx/
+7天续期宝塔  8481/baotaduan
+外网面板地址: http://[2a01:4f8:13a:2690:face:fbb:8f:1]:8888/df474f9a
+内网面板地址: http://103.253.24.78:8481/df474f9a
+username: jerrychen
+password: believe123.
+
+x-ui 端口:12312   /newxui
+  入站: 36478      /AFJI2WRN5EA
+
+数据库名：has_xiaxia417_m
+用户：has_xiaxia417_m
+密码：believe123.
+访问站点：http://has.xiaxia417.ml/index.php
+---------------------------------------------------------
+
+tar -zxvf ./x-ui-linux-amd64.tar.gz
+
+dnf groupinstall "Development Tools"
+
+uname -a 
+
+nohup ./x-ui >/dev/null 2>&1  &
+
+nohup yum update -y  >/dev/null 2>&1  &
+
+ps -ef | grep x-ui
+
+wget https://github.91chi.fun//https://github.com//v2fly/v2ray-core/releases/download/v4.16.0/v2ray-linux-64.zip
+
+wget https://raw.githubusercontent.com/mack-a/v2ray-agent/master/install.sh && chmod 700 /root/install.sh
+
+更新时区:
+echo "ZONE=Asia/Shanghai" >> /etc/sysconfig/clock         
+rm -f /etc/localtime      
+ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+
+rm -rf install.sh
+
+查询已开放的端口 netstat -ntulp     yum -y install net-tools
+firewall-cmd --query-port=8888/tcp
+ps -ef | grep nginx   ps -ef | grep x-ui
+netstat -npl | grep 80
+
+
+证书:
+-----BEGIN CERTIFICATE-----
+MIIEFTCCAv2gAwIBAgIUaPeVK2vhLvSL9n+5S3YtHth2rjMwDQYJKoZIhvcNAQEL
+BQAwgagxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQH
+Ew1TYW4gRnJhbmNpc2NvMRkwFwYDVQQKExBDbG91ZGZsYXJlLCBJbmMuMRswGQYD
+VQQLExJ3d3cuY2xvdWRmbGFyZS5jb20xNDAyBgNVBAMTK01hbmFnZWQgQ0EgZWIz
+YTBhNTgxODk4NWNhMTMxMDhjZmRiYzA5NWQyN2YwHhcNMjExMjIyMTczNjAwWhcN
+MzExMjIwMTczNjAwWjAiMQswCQYDVQQGEwJVUzETMBEGA1UEAxMKQ2xvdWRmbGFy
+ZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALtHCLgQOEtcPk+WOaDb
+FUwAYlFj3Jcix7HeAV6ngil4jRj+Chmd3nHx6J+ytMdcgVnrAeuXMI+J64UHx0lA
+BmKCAiXMLqitWMfpv1/ChEeN1GH0AfrbK384BGGu+HkQ9xWka5nUEDRii10ub7A7
+wo1n++jyflmgk9ynkC2NnPZVaUwn2tBjxrqd/73Zt2tQHOO1frdWWKKOn5XDqp6q
+KoFPG3O0sz3Jj7R/Pjgb6o7Dk4cuzQiSlJRjlz6qY8cUDnz85SUKDOIS0QT2MlQM
+0iRHm2oYX2J4Zz6aPTcXtd0DRqQXqdtg1njtzN8+C1TY09Xxgpq0HkxLcPbodcgM
+8u8CAwEAAaOBuzCBuDATBgNVHSUEDDAKBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBTro2AwT1Tuc7P0j1UCZ/IGEQX5AjAfBgNVHSMEGDAWgBTkuGaD
+FMZqiucnjUKa9ww+gC1rdjBTBgNVHR8ETDBKMEigRqBEhkJodHRwOi8vY3JsLmNs
+b3VkZmxhcmUuY29tLzc5MzY3ZDk0LWU1YTEtNDFmMi04MzE0LTRjYzUzNTM2ZjY1
+Yi5jcmwwDQYJKoZIhvcNAQELBQADggEBAG5jPtGypqfASQ0/K+sBjAY3AgwINHgF
+CCVvn1nAc2xf1AE5vVJWwDU1ret2z7aAUII5YkD+xd1F1udo9t+9I1nVjlom6qaj
+PDumUIgrwf26gnvzDxkgceW4NlfRMiqpj/y74MZTPp5kp2Qb8ahCvYI6nxhxq2+z
+wgeCkULxqpO7pA3QG6nDoLZmE2spsgc2FVCaphedNbE6wQAJUisG2qCa462CLav/
+0xI/hfmpxj5xJtpv4GIPEbgLkpQnvzJ/z5qOGqzc9MS+QNinpJfmDhWU6IeWm4Nd
+TE9NtI/LQy+DNiEUNMiIG7iyGnNyAMQ/jYb191BSZLn13+1dpgYo6pU=
+-----END CERTIFICATE-----
+
+密钥:
+-----BEGIN PRIVATE KEY-----
+MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7Rwi4EDhLXD5P
+ljmg2xVMAGJRY9yXIsex3gFep4IpeI0Y/goZnd5x8eifsrTHXIFZ6wHrlzCPieuF
+B8dJQAZiggIlzC6orVjH6b9fwoRHjdRh9AH62yt/OARhrvh5EPcVpGuZ1BA0Yotd
+Lm+wO8KNZ/vo8n5ZoJPcp5AtjZz2VWlMJ9rQY8a6nf+92bdrUBzjtX63Vliijp+V
+w6qeqiqBTxtztLM9yY+0fz44G+qOw5OHLs0IkpSUY5c+qmPHFA58/OUlCgziEtEE
+9jJUDNIkR5tqGF9ieGc+mj03F7XdA0akF6nbYNZ47czfPgtU2NPV8YKatB5MS3D2
+6HXIDPLvAgMBAAECggEAOtcrryExfsQBs+HAQ4DyJQnt2iKlGTtNQN4+0e2RYNRG
+iLawl7HZRTW7YAm28Phoj8bduJatJDwyKn7yJ1qdZu/wGs4XTtoADfesMDsecpjm
+RMx0nsuj0/nWrpZZ7TfeWgdp41AUs1DO9rzzTIzKKMGmDV+7QQ/JxUdEbnuS+HX9
+MjR6uIeumLEgqimkGf+DH6sw/IO4R/1LXB5EndRZpJHg5gIF3XUCAqKgjU3CvlO3
+xQx4IRYo7oenNNyWmWITt+G/EGLLChNUIrupXJn8bz++oOCVdRPMOeWATNuVqsPj
+pI2s4LvoYA2KYq8TAqnxtKUjx39aBldQYzUq9HegaQKBgQDyCKuqOhCuSA7JG7r2
+G32xvLkt0/U812uX/h8U1JTSuWlk5ohbt0zF9j52V4dA+eD7DBh/i0uU2tghgsV0
+Be4vgW9Pil9OJC6LIkSMfkj3EgBibsCpb6Y1lXOsxSqlwrP0L6RtMWU//ukgKO5h
+/zUyUJ9HtzUGRhsudfY6ZNWbmwKBgQDGFYA7N4u2SY9iDoqK6UH2ZTT5xsm4GZeI
+B1E6S+rnjXhQC8NZm6lqU8jdqPppDiJ8UublGSQ2VStCdJiFG5yWvLmrzqMX/0Uu
+v2Z3chak4xtMt5HdyW4CGOxaL0OGdPlYcSBuLZJ+WG0nJVD4fwpVClok8xkHK1ua
+bt/t3MANPQKBgFN1x/RYN35RnL+ej1bkXfCXOmfiKjPDuPddisw9DeCoTP6dPDIc
+QB4XbqySPDKcuAb5wczhdLusx1Cu7nW2wc6h3IdaGMkyUtZph6fGuFRyYa2PsWH7
+/R2HHq9aAf3M6Q7wCswYd2ic9zi+xI0IWwixomsxcthp/l+ED9dNBBe3AoGBALAA
+dLKpFQt/6tWuo+zvevuqS1rQBXX9z0U/cy4APJVHfypoeUfKZsqh7Wz+cpkbxQqA
+QsY3A5T/MfPXU5mZwhWxVKxSa1msKFV0HWBuT65sWFpfFU1iZ8uXR5KOQkpa7x5l
+TfJ3rZ1zhnDs2Dgj8RNEonoIQim7naXndDKOHVrlAoGBAN7T/iOvS0+1V+mjOTd8
+aLrtOctuV9yRwhh5+aD/RSOPiC2y4EPuOE2Wq/Sjz3jKUJfyYE0XWgkr5/LomT5S
+YpCGVXmKqmrvcDvBvnGwASq0Qt8UyD5LiMtYOv0c6uWv3+Pp89Dlv1xEIU7j9VvJ
+6pyWU+9VrZ38yA3YrKICOc9P
+-----END PRIVATE KEY-----
+
+德鸡CF证书:
+
+-----BEGIN CERTIFICATE-----
+MIIEFTCCAv2gAwIBAgIUe4jNC1YO97hLDt/n0KvUn4GMS/QwDQYJKoZIhvcNAQEL
+BQAwgagxCzAJBgNVBAYTAlVTMRMwEQYDVQQIEwpDYWxpZm9ybmlhMRYwFAYDVQQH
+Ew1TYW4gRnJhbmNpc2NvMRkwFwYDVQQKExBDbG91ZGZsYXJlLCBJbmMuMRswGQYD
+VQQLExJ3d3cuY2xvdWRmbGFyZS5jb20xNDAyBgNVBAMTK01hbmFnZWQgQ0EgN2E0
+Y2FlZjMxNzUwZTg2ZTJmMmY3NGRhNzQ4ZDBmM2IwHhcNMjIwMTA3MDkwNDAwWhcN
+MzIwMTA1MDkwNDAwWjAiMQswCQYDVQQGEwJVUzETMBEGA1UEAxMKQ2xvdWRmbGFy
+ZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAL9a2n9vMbYDBGBaZN4X
+q0QGboDaD74GYt3C2sko6SbTKcNVshqKOcuJ8cE4XHiH36LROPDLTubGWysYxnFE
+9Py+lW5pbsCN1TddINDgU9DVi9NUctGjTF9eorQ5xtc2ykn8OQAVEHnFykew6tNe
+KdO9HqCiNLYAfD4/jS46osGmlTa9OUIl5Nr8VwrKQJwuOH+AzwRmmhbfydOblbx0
+QQD7WX0Z8G4lTnfc25rbf+NrmTb3SstUScRxBdpFp5btPEU8iX+Iac2FJcIzC0eJ
+WiFlC/F4H54J3AqV65gYtsLblyqYuizVdYaVY7hS4Lmiibjfh4iX6tfeQtK2nTWG
+2bkCAwEAAaOBuzCBuDATBgNVHSUEDDAKBggrBgEFBQcDAjAMBgNVHRMBAf8EAjAA
+MB0GA1UdDgQWBBRydKzvb820sSolF9fIPZZdutM3mTAfBgNVHSMEGDAWgBTOvr78
+qusg6pBQKkG4VfhASvgcDDBTBgNVHR8ETDBKMEigRqBEhkJodHRwOi8vY3JsLmNs
+b3VkZmxhcmUuY29tL2VlMzk5ZTlmLTEzOGYtNGMwNC1iYjA1LWRiMDI2YjBlNGYx
+MS5jcmwwDQYJKoZIhvcNAQELBQADggEBAFtqRczD1Y0qCywvhPS0wAmx2VkSvVLz
+121nhagC/Eo3t09UkrLkmV56IOyPB4UlB7D8a5O8FPVrXzArWW1tUhEZwlgRs+sv
+BV8GH4ei7rXpxIRSK/Lu5Cj9AdWE5kzW0OR9rs6hFI0AE9jWODOjARVTyAKQIWS9
+t2RBiNofr6THCawOx5HXVEPEX6KOyNeeOQj6+icaG6OvVdLwHsD6c8NK+dwnHd63
+EQlEGzK4lIVni/2zANhZfRYBvn8H8SpgCplFQIcAbVuuXDQdRVH6yDRevFQ1A3xF
+2HdaREiiIQ6zx+y3748/SQq9oBu5xQ03su5uzFMlQRWM7Nw8cXjX788=
+-----END CERTIFICATE-----
+
+-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/Wtp/bzG2AwRg
+WmTeF6tEBm6A2g++BmLdwtrJKOkm0ynDVbIaijnLifHBOFx4h9+i0Tjwy07mxlsr
+GMZxRPT8vpVuaW7AjdU3XSDQ4FPQ1YvTVHLRo0xfXqK0OcbXNspJ/DkAFRB5xcpH
+sOrTXinTvR6gojS2AHw+P40uOqLBppU2vTlCJeTa/FcKykCcLjh/gM8EZpoW38nT
+m5W8dEEA+1l9GfBuJU533Nua23/ja5k290rLVEnEcQXaRaeW7TxFPIl/iGnNhSXC
+MwtHiVohZQvxeB+eCdwKleuYGLbC25cqmLos1XWGlWO4UuC5oom434eIl+rX3kLS
+tp01htm5AgMBAAECggEARTKiLA42YFcT+JIHwua1SOq4gEEbC0E89GvX+YGhWqhn
+BFvThdRxlQDD23c5vV6JSVQ2rqEe3cZiRqH1dRWWMGXtHNnksp43ugcj7FULCkyG
+/Xue79+JKT3MQbdZCA+otHuQ005KwHZ9sVIxgREeuBK+ZiFyRVTEmTAbKloK7FLk
+nWX5QCcTlKpsi8J6pjzYwRVbEAQYlsjo/jsOzpRwC05Lk62HEOSwsxTSwK4rGlWi
+2WlPZCOxU2vd6Ptlb7J04NfgzBia/lY+D/BWtAQ+fKxZaZjDzPTTSsnUF1bgK5uF
+dPXDZWpYxqv9V/wD4LKUFLydQAS083G9dsQ44Q6BVwKBgQDkzx3FbQhZwiH0lBVD
+EHdCmUGGdBvo3nY851rxC66Gc9RKWoHzuf/jKZ+Y4ysk6/dQeKAWBwAkew1pRcMV
+PpLPYJxNPkKbkwL7qrIb2fsb6D9eWcIvkwdsFdyplgg9j8vd1DUKQ4/vhwb07BYA
+WXVd8ui80pgFeQO8CgqQ0isDRwKBgQDWGExMNxBK0rSTXKswS9ULQWtpwQBUq7vL
+E1gWpjSZJjOFONKqeDV/LwFcQjVGduzQunNCxarPTr6prde2lwbvwUpC64czDIGF
+1f8bAoUgTuds/Kh4An2oUbHHYKQQt9Ykx2bt5WV+unbmkdl9UeAMNkvjtIPJprNT
+zHuuZcu6/wKBgHMq2OZVgh2DvImZu7X85Lpt33Boot+skcEIBltLsPXV+WXPdpeR
+6H2TptRSi5XS+7HSdWmA7o5uLYruZUodK9Ib47BxhR8/eQHpoiqopl8eoD7CWR6P
+F+5MdrwZW155MXkfZe8boKhEw7il2FEmtg+qw4C/U2t1xO5x821/i8zjAoGACHbX
+dV/r7flcmELepb8pwhMpCvpNaAuOFh5CqkqR48gl20t+0KyF+OxD0oDvmESVYj8s
+1WP5N872LMEpuRdJd+sdY33qT3NcH41xU4ELAFb+QUnP40a97wyjya0hb2PFPJkB
+kcAy/gqjLsRvY8v73p+66lq1pyBHELYR4bg2kMMCgYEA1qikWdqQ8roekUexh77F
+DirTGoeJV88W86bWYmzVFpsRpO7l43GyBf2kDty7sK9/J2T8C9odYAtHIOHQ2eXP
+jaKqP19Osg5YoeMMFn0GCljmW4GrXICMKmEXcpmxc7F0wWahOxctJsy7YklVtOM1
+qR4u4Fk5ayIQqdakYSrLO5E=
+-----END PRIVATE KEY-----
