@@ -1,50 +1,3 @@
-5064955971
-believe123.
-
-36.28.28.107
-域名:
-  youyouat211.ml
-  youyouat121.ml   www.youyouat121.ml
-  xiaxia417.ml 
-
----------------github免费节点:-----------------------
-44ef7c0a-9861-4a77-9e56-31359e136aef 
-databig12w.herokuapp.com
-
-6970c1ce-1e15-4eef-9de0-eae5ac835e12
-bigdata20221.herokuapp.com
-gentle-feather-572a.gapmzu8jf.workers.dev
-
-1d4f2d9f-556d-491c-a038-4060d79b1ff8
-bigdata202201.herokuapp.com
-crimson-lake-ed6e.gapmzu8jf.workers.dev
-----------------------------------------------------
-
-ping has.xiaxia417.ml
-ipv6:2a01:4f8:13a:2690:face:0fbb:008f:0001
-
-德鸡:
-2a02:0180:0006:0001:0000:0000:0000:5124
-8UgT8VCU
-
-bash <(curl -s -L https://git.io/v2ray.sh)
-
-
-微软5T云盘账号:
-JerryChen417@buffread.onmicrosoft.com
-Believe123.
-
-中国上海市松江区车墩镇蔷薇苑2栋
-201600
-
-
-Free Proxies
-/clash/proxies
-转格式:
-https://clashtoss.bingle.ga
-
-bash <(curl -L -s https://multi.netlify.app/go.sh) -l ./v2ray-linux-64.zip
-
 #系统更新---------------
 yum update -y && yum install curl -y   yum install -y wget
 nohup yum update -y  >/dev/null 2>&1  &
@@ -95,7 +48,7 @@ mv ./xray ./xray-linux-amd64
 chmod +x geoip.dat
 chmod +x geosite.dat
 
----------------------------------------
+-----------------------------------------------------------------------
 德鸡安装IPV4
 wget -N https://cdn.jsdelivr.net/gh/kkkyg/CFwarp/CFwarp.sh && bash CFwarp.sh
 
@@ -110,44 +63,7 @@ bt default
 
 bash <(curl -Ls https://github.com/jerrychen417/x-ui/blob/main/install.sh)
 
-德鸡宝塔
-外网面板地址: http://[2a02:180:6:1::5124]:8888/mybaotao
-             http://103.253.24.78:8849/815f9ae5
-内网面板地址: http://172.16.0.2:8888/815f9ae5
-username: jerrychen
-password: believe123.
-
-8089/mybaotao
-
-x-ui 
-www.youyouat121.ml/newxui
-端口:12312   /newxui
-  入站: 25236      /SAD3FW4QAT
-  www.youyouat121.ml
-
-数据库名：www_youyouat121
-
-用户：www_youyouat121
-
-密码：EERkXzxQWt
-
-访问站点：http://www.youyouat121.ml/index.php
 ---------------------------------------------------------------
-/www/server/panel/vhost/nginx/
-7天续期宝塔  8481/baotaduan
-外网面板地址: http://[2a01:4f8:13a:2690:face:fbb:8f:1]:8888/df474f9a
-内网面板地址: http://103.253.24.78:8481/df474f9a
-username: jerrychen
-password: believe123.
-
-x-ui 端口:12312   /newxui
-  入站: 36478      /AFJI2WRN5EA
-
-数据库名：has_xiaxia417_m
-用户：has_xiaxia417_m
-密码：believe123.
-访问站点：http://has.xiaxia417.ml/index.php
----------------------------------------------------------
 
 tar -zxvf ./x-ui-linux-amd64.tar.gz
 
